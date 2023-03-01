@@ -15,3 +15,4 @@ function charCount(str){
   return obj;
 }
 console.log(charCount("hello My name is Minho!"))
+
